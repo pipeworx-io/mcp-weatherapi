@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-weatherapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "WeatherAPI.com MCP — wraps WeatherAPI.com (api.weatherapi.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a82a2b0650b02f69e54ddeaae421d98f1a0c1fa13c0cf2bc68dbb1f4205f4577",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-9375a804bb831eea7c4cc677331c762eb906868f80d69e8b344b8432fec9ce81",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
